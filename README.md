@@ -21,3 +21,23 @@ In this project I used extreme gradient boosting algorithm(XG-boost algorithm). 
 
   
 ![Diagram](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/df9bb48a-b183-45ba-bd6f-c76e7ec5fc79)
+
+<br />
+
+## Project steps
+
+1- Perform exploratory data analysis.
+
+2- Perform data visualization.
+
+3- Prepare the data before training
+
+4- Understand the theory and intuition behing XG-Boost algorithm
+
+5- Train and Evaluate XGBOOST Classifier
+
+
+Libraries used for this project are pandas(For dataframe manupulation), numpy(For multidimensional array manipulation), seaborn(For data visualization), matplotlib(For data visualization) and plotly(For interactive data visualisation).
+
+
+
