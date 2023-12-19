@@ -39,5 +39,10 @@ In this project I used extreme gradient boosting algorithm(XG-boost algorithm). 
 
 Libraries used for this project are pandas(For dataframe manupulation), numpy(For multidimensional array manipulation), seaborn(For data visualization), matplotlib(For data visualization) and plotly(For interactive data visualisation).
 
+There are four main techniques try to diagnose cancer. Hinselmann, Schiller, Cytalogy, Biopsy. I focused on Biopsy in this project.
+
+All these features play a key role in causing cervical cancer in women. We will feed these features to our model and train it. Then the model try to predict for us the Biopsy variable for us. 
+
+![birleştirilmiş](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/013548a2-c72d-412e-af22-49b47226df6a)
 
 
