@@ -51,6 +51,8 @@ Heat map is created to see the correlations between all features. Reading correl
 ![1](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/eead5498-f673-48f4-b749-aedde60d293b)
 ![2](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/741e2e64-bdee-46c8-90c1-8cc35ba2ee89)
 
+<br />
+
 Histogram distributions for all the features are created.
 
 ![hist_command](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/ce3cfaa2-eb80-4627-955e-72863091c733)
