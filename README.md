@@ -47,6 +47,10 @@ All these features play a key role in causing cervical cancer in women. We will 
 
 Heat map is created to show the correlations between all features which makes it easy to read.
 
+
+![1](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/eead5498-f673-48f4-b749-aedde60d293b)
+![2](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/741e2e64-bdee-46c8-90c1-8cc35ba2ee89)
+
 ![Corr_birleştirilmiş](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/7586264e-0ef1-4e98-b475-f48e33afe420)
 
 
