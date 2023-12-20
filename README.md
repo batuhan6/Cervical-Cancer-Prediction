@@ -49,6 +49,6 @@ Heat map is created to show the correlations between all features which makes it
 
 ![Corr_birleştirilmiş](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/7586264e-0ef1-4e98-b475-f48e33afe420)
 
-![Corr_birleştirilmiş](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/7586264e-0ef1-4e98-b475-f48e33afe420)
+
 
 
