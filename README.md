@@ -59,7 +59,7 @@ Histogram distributions for all the features are created.
 
 
  
-*  Age distributions shows us that participants in this study are mainly between 20 and 30 years old.
+*  Age distribution shows us that participants in this study are mainly between 20 and 30 years old.
 
 *  Biopsy distribution shows that there are a lot of people that are not diagnosed with cancer according to biopsy diagnosis.
 
