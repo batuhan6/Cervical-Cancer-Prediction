@@ -58,13 +58,14 @@ Histogram distributions for all the features are created.
 ![hist2](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/c062e083-90a1-4104-b701-f16db86d5f26)
 
 
-* Age distributions shows us that participants in this study are mainly between 20 and 30 years old.
+ 
+*  Age distributions shows us that participants in this study are mainly between 20 and 30 years old.
 
-* Biopsy distribution shows that there are a lot of people that are not diagnosed with cancer according to biopsy diagnosis.
+*  Biopsy distribution shows that there are a lot of people that are not diagnosed with cancer according to biopsy diagnosis.
 
-* Histogram of first sexual intercouse is bell curved and shows us that first sexual intercouse is mostly between 15 and 20 years old. 
+*  Histogram of first sexual intercouse is bell curved and shows us that first sexual intercouse is mostly between 15 and 20 years old. 
 
-* When we look at histogram of number of pregnancies. Mostly people have 1 to 3 kids. Max number of pregnancies is set at 11. 
+*  When we look at histogram of number of pregnancies. Mostly people have 1 to 3 kids. Max number of pregnancies is set at 11. 
 
 
 
