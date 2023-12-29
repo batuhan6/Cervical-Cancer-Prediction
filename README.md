@@ -73,6 +73,8 @@ Histogram distributions for all the features are created.
 
 *  When we look at histogram of number of pregnancies. Mostly people have 1 to 3 kids. Max number of pregnancies is set at 11. 
 
+## PREPARE THE DATA BEFORE TRAINING
 
+Biopsy column is used as the target column.
 
 
