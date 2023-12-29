@@ -56,7 +56,11 @@ All these features play a key role in causing cervical cancer in women. We will 
 
 ## Perform Exploratory Data Analysis
 
+We see that there are some missing data. Due to reason some patients does not want to disclose some of their information.
+
 ![2](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/45e1719e-5b8e-4fe2-b34f-ca2d07a56a73)
+
+I want to resplace the missing data with NaN value.
 
 ![3](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/31d5c3de-62ad-4a9a-8f52-f387d0ee904a)
 
