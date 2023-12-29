@@ -56,25 +56,43 @@ All these features play a key role in causing cervical cancer in women. We will 
 
 ## Perform Exploratory Data Analysis
 
+
 We see that there are some missing data. Due to reason some patients does not want to disclose some of their information.
 
 ![2](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/45e1719e-5b8e-4fe2-b34f-ca2d07a56a73)
 
-I want to resplace the missing data with NaN value.
+
+I replaced the missing data with NaN value.
 
 ![3](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/31d5c3de-62ad-4a9a-8f52-f387d0ee904a)
 
+
+It is checked here values are not a number values or not.
+
 ![4](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/e624661d-022d-4a67-84f6-3a47d3b8abfa)
+
+
+Showing at a heat map how many null elements visually at the entire dataframe.
 
 ![5](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/29a91090-275c-47d4-bc19-9d18c986784f)
 
+
 ![6](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/8c6a1c14-d569-48a5-a4b5-d63a279ffb38)
+
+
 
 ![7](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/f0d357a9-0bd3-43ac-b473-a63d623ed48c)
 
+
+Replaced NaN values with the mean. It is an effective solution with the missing data problem in this scenerio.
+
 ![8](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/72098a53-4a94-4e87-8348-0e9b4a8e9b29)
 
+
+By looking at the heatmap we see that there is no more missing data.
+
 ![9](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/a18e3fcf-8c7a-4f47-9a7e-bb5ec76f17d7)
+
 
 ## PERFORM DATA VISUALIZATION
 
