@@ -68,6 +68,12 @@ All these features play a key role in causing cervical cancer in women. We will 
 
 ![7](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/f0d357a9-0bd3-43ac-b473-a63d623ed48c)
 
+![8](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/72098a53-4a94-4e87-8348-0e9b4a8e9b29)
+
+![9](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/a18e3fcf-8c7a-4f47-9a7e-bb5ec76f17d7)
+
+## PERFORM DATA VISUALIZATION
+
 Heat map is created to see the correlations between all features. Reading correlations from heat maps is easier compared to reading correlations from tables. 
 
 
@@ -93,8 +99,19 @@ Histogram distributions for all the features are created.
 
 *  When we look at histogram of number of pregnancies. Mostly people have 1 to 3 kids. Max number of pregnancies is set at 11. 
 
-## PREPARE THE DATA BEFORE TRAINING
+## Prepeare the Data Before Training
 
 Biopsy column is used as the target column.
 
+![10](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/2f4cb571-a030-499e-8581-cd3ad7a2e936)
 
+![11](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/8c8bbaa6-879a-409c-816e-382c0cd415db)
+
+
+## Train and Evaluate XGBOOST Classifier
+
+![12](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/45f07c80-d35c-4a2b-96d8-c9aaf768cd63)
+
+![13](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/24e21349-33d3-4e4f-b7b3-682f9fc4d2ab)
+
+![14](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/1a5abe97-5287-40af-a85a-1f13b7feb350)
