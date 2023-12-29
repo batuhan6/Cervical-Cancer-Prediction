@@ -26,13 +26,15 @@ In this project I used extreme gradient boosting algorithm(XG-boost algorithm). 
 
 ## Project steps
 
-1- Perform exploratory data analysis.
+1- Import dataset and libraries
 
-2- Perform data visualization.
+2- Perform exploratory data analysis.
 
-3- Prepare the data before training
+3- Perform data visualization.
 
-4- Understand the theory and intuition behing XG-Boost algorithm
+4- Prepare the data before training
+
+5- Understand the theory and intuition behing XG-Boost algorithm
 
 5- Train and Evaluate XGBOOST Classifier
 
@@ -47,6 +49,24 @@ All these features play a key role in causing cervical cancer in women. We will 
 
 <br />
 <br />
+
+## Import Dataset and Libraries
+
+![1](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/ff357e9b-db09-462b-a1f4-485da12567ad)
+
+## Perform Exploratory Data Analysis
+
+![2](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/45e1719e-5b8e-4fe2-b34f-ca2d07a56a73)
+
+![3](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/31d5c3de-62ad-4a9a-8f52-f387d0ee904a)
+
+![4](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/e624661d-022d-4a67-84f6-3a47d3b8abfa)
+
+![5](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/29a91090-275c-47d4-bc19-9d18c986784f)
+
+![6](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/8c6a1c14-d569-48a5-a4b5-d63a279ffb38)
+
+![7](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/f0d357a9-0bd3-43ac-b473-a63d623ed48c)
 
 Heat map is created to see the correlations between all features. Reading correlations from heat maps is easier compared to reading correlations from tables. 
 
