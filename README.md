@@ -127,6 +127,9 @@ Biopsy column is used as the target column.
 
 ![10](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/2f4cb571-a030-499e-8581-cd3ad7a2e936)
 
+
+I scaled my data. I normalized my input data which is my features. I split my data into test and train sets. 
+
 ![11](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/8c8bbaa6-879a-409c-816e-382c0cd415db)
 
 
