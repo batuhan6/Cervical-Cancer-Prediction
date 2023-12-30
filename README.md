@@ -128,12 +128,14 @@ Biopsy column is used as the target column.
 ![10](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/2f4cb571-a030-499e-8581-cd3ad7a2e936)
 
 
-I scaled my data. I normalized my input data which is my features. I split my data into test and train sets. 
+I scaled the data, normalized the input data which is my features and split it into test and train sets. 
 
 ![11](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/8c8bbaa6-879a-409c-816e-382c0cd415db)
 
 
 ## Train and Evaluate XGBOOST Classifier
+
+xgboost is installed. Model is trained. Accuracy of 0.9984 achieved in the training data and 0.9158 at the testing data.
 
 ![12](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/45f07c80-d35c-4a2b-96d8-c9aaf768cd63)
 
