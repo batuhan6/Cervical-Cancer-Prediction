@@ -136,7 +136,7 @@ I scaled the data, normalized the input data which is my features and split it i
 ## Train and Evaluate XGBOOST Classifier
 
 xgboost is installed. Model is trained. Accuracy of 0.9984 achieved in the training data and 0.9158 at the testing data. 
-I made predictions on testing data, plot classification report and confusion matrix. Classification report gives us for class 0 for precision and recall 0.94% and 0.97% accuracy. And for class 1, 0.62% and 0.45% accuracy. We take from classification report really optimal results for class 0. And lastly I print out confusion matrix. We see from the confusion matrix approximatelly there are correctly classified 98 samples(True Positives and True Negatives). And misclasified 9 samples(False Positives and False Negatives)  
+I made predictions on testing data, plot classification report and confusion matrix. Classification report gives us for class 0 for precision and recall, 0.94% and 0.97% accuracy. And for class 1, 0.62% and 0.45% accuracy. We take from classification report really optimal results for class 0. And lastly I print out confusion matrix. We see from the confusion matrix there are correctly classified 98 samples(True Positives and True Negatives). And misclassified 9 samples(False Positives and False Negatives)  
 
 ![12](https://github.com/batuhan6/Cervical-Cancer-Prediction/assets/32600613/45f07c80-d35c-4a2b-96d8-c9aaf768cd63)
 
